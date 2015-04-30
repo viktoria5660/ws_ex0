@@ -1,0 +1,19 @@
+{
+  "name": "ws_ex0",
+  "version": "1.0.0",
+  "description": "ex0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viktoria5660/ws_ex0.git"
+  },
+  "author": "viktoria yakobashvili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktoria5660/ws_ex0/issues"
+  },
+  "homepage": "https://github.com/viktoria5660/ws_ex0"
+}
